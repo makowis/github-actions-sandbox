@@ -12,4 +12,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Relase Notify Chatwork
-        uses: ./.github/actions/relase-notify-chatwork
+        uses: ./.github/actions/release-notify-chatwork
