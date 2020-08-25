@@ -1,0 +1,5 @@
+name: 'Release notify Chatwork'
+description: 'Send Release Note to Chatwork'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
