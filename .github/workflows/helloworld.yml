@@ -7,4 +7,4 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/helloworld
+    - uses: './.github/actions/helloworld'
